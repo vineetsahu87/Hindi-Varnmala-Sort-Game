@@ -1,0 +1,5 @@
+{
+  "name": "Hindi Varnamala Sort",
+  "description": "An interactive educational game to learn Hindi alphabets by arranging jumbled letters in the correct sequence, featuring an AI Tutor powered by Gemini.",
+  "requestFramePermissions": []
+}
